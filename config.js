@@ -47,14 +47,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 /*============== SOCIAL ==============*/
 
-// kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-
+// kalo ga punya ketik "-" atau biarin aja biar ada creditsnya
 global.sig = 'https://instagram.com/mhdkrnwnn_' // ig
 global.sgh = 'https://github.com/wannjb/' // github
 global.sgc = 'https://chat.whatsapp.com/GwCTefLrBr85NFFrqDE1pK' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
+global.sfb = 'https://www.facebook.com/wawanjr' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
@@ -64,17 +63,16 @@ global.pgopay = '089518377899' //gopay
 global.plinkaja = '0895327999292' //link aja
 global.ppulsa = 'NOT❗' //telkomsel
 global.ppulsa2 = '0895327999292' // kalau ada kartu lain isi aja
-global.psaweria = 'NOT❗'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289518377899'
-global.nomorown = '6283895190078'
-global.namebot = 'Wann BOT'
-global.nameown = 'Wann'
-
+global.nomorbot = '62895327999305'
+global.nomorown = '62895327999292'
+global.namebot = 'WannTrue BOT'
+global.nameown = 'WannTrue'
 /*============== Github Thanks To ==============*/
 global.namagithub = 'wannjb' // nama github lu
-global.linkgithub =  '-' // tarok link github lu
+global.linkgithub = 'https://github.com/wannjb/Haruka-Md-1' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,8 +83,8 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['0895327999292', 'WannTrue', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['62895327999292', 'WannTrue', true],
+  ['62895327999305', 'WannTrue BOT', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
@@ -138,14 +136,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WannBot  」' //Main Watermark
-global.wm2 = '© Wann'
-global.wm3 = '⫹⫺ Wann '
+global.wm = '                「 WannTrue  」' //Main Watermark
+global.wm2 = '© WannTrue '
+global.wm3 = '⫹⫺ WannTrue '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By WannTrue`
-global.packname = '☂︎ Wann'
-global.author = '                「 🐣 WannBot」'
+global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
+global.author = '                「 W A N N • T R U E」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,7 +634,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Wann BOT'
+global.stickpack = 'WannTrue BOT'
 global.stickauth = `By © Wann`
 
 global.multiplier = 38 // The higher, The harder levelup
