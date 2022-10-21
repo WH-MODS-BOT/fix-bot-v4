@@ -43,6 +43,11 @@
         "wallpaper-scrapping",
         "primbon",
         "google-it",
+        "node",
+        "node-gyp",
+        "nodejs",
+        "gyp",
+        "node-addon",
         "baileys-md"
     ],
     "homepage": "https://github.com/WH-MODS-BOT/fix-bot-v1",
