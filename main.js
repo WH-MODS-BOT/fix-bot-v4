@@ -34,6 +34,7 @@ import {
 import store from './lib/store.js'
 
 const {
+  makeWASocket,
   DisconnectReason
 } = (await import('@adiwajshing/baileys')).default
 
