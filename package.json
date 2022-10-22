@@ -21,11 +21,13 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "Games-wabot",
-        "wabot-aq",
-        "multi-device",
-        "MD",
-        "baileys-md"
+        "mybot-md",
+        "family-md",
+        "family-bot",
+        "enjela",
+        "shiraori-md",
+        "stikerin",
+        "wabot-aq"
     ],
     "homepage": "https://github.com/WH-MODS-BOT/",
     "author": {
