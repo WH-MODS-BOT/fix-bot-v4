@@ -5,6 +5,10 @@
     "depecrated": false,
     "main": "index.js",
     "type": "module",
+    "engines": {
+    "node": "18.11.0",
+    "npm": "8.19.2"
+  }
     "directories": {
         "lib": "lib",
         "src": "src",
