@@ -4,6 +4,9 @@
     "description": "WhatsApp BOT By wahid",
     "main": "index.js",
     "type": "module",
+    "engines": {
+    "node": "16.17.1"
+  },
     "directories": {
         "lib": "lib",
         "src": "src",
