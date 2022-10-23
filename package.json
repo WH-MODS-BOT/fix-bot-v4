@@ -4,7 +4,6 @@
     "description": "WhatsApp BOT By wahid",
     "main": "index.js",
     "type": "module",
-    "devDependencies": {},
     "directories": {
         "lib": "lib",
         "src": "src",
